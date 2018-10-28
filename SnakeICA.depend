@@ -1,0 +1,3597 @@
+# depslib dependency file v1.0
+1488746997 source:/home/scm-staff/u0026939/Desktop/SnakeICA/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1521806682 hics.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1521806693 hics/View.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1521806693 ow/WindowStyle.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1521806693 em/Vector3.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Config.hpp
+	"TargetConditionals.h"
+	"TargetConditionals.h"
+	"TargetConditionals.h"
+
+1521806693 ditionals.h"
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1521806696 em/Time.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1521806694 ig.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Time.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+
+1521806695 em/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+	<SFML/System/Export.hpp>
+	<ostream>
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1524238005 
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/InputStream.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521806694 em/NonCopyable.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/NonCopyable.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/String.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1521806695 em/String.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1521806695 em/Utf.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Utf.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/String.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1521806695 em/Thread.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Thread.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/ThreadLocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/ThreadLocalPtr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1521806695 em/ThreadLocalPtr.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/ThreadLocalPtr.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Vector2.hpp
+	<SFML/System/Vector2.inl>
+	<SFML/System/Vector2.inl>
+	<SFML/System/Vector2.inl>
+
+1521806695 em/Vector2.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Vector2.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Vector3.hpp
+	<SFML/System/Vector3.inl>
+	<SFML/System/Vector3.inl>
+	<SFML/System/Vector3.inl>
+
+1521806695 em/Vector3.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/System/Vector3.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/GlResource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Export.hpp>
+
+1521806696 ow/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/ContextSettings.hpp
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1521806696 ow/Sensor.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1521806696 em/String.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Keyboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521806694 em/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/VideoMode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+	<SFML/Window/Export.hpp>
+	<vector>
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/Window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/WindowHandle.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Window/WindowStyle.hpp
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/BlendMode.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+
+1521806694 hics/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Color.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1521806694 hics/Rect.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1521806694 hics/Rect.inl>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Rect.inl
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1521806694 ow/GlResource.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/RenderStates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1521806694 hics/Transform.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/RenderTexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1521806694 hics/RenderTarget.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/RenderTarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/View.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/PrimitiveType.hpp
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/RenderWindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1521806694 hics/RenderStates.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/VertexArray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/CircleShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1521806694 hics/Shape.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/RectangleShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/ConvexShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1435661976 /usr/local/SFML-2.2/include/SFML/Graphics/Text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525703784 source:e:\codeblocksprojects\snakeica\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+
+1525448709 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525448709 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525448709 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525448709 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525448714 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\utf.inl
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\string.inl
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\thread.inl
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525448715 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\threadlocalptr.inl
+
+1525448714 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525448714 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\vector2.inl
+
+1525448714 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525448714 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\system\vector3.inl
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\contextsettings.hpp
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525448717 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525448716 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\window\windowstyle.hpp
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\rect.inl
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525448713 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1521806694 hics/Glsl.inl>
+
+1525448712 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\glsl.inl
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525448711 e:\codeblocksprojects\snakeica\windows\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525701050 source:e:\codeblocksprojects\snakeica\game.cpp
+	"Game.hpp"
+	"GameScene.hpp"
+	"MainMenuScene.hpp"
+	<iostream>
+	<stdlib.h>
+
+1525772876 e:\codeblocksprojects\snakeica\game.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	"SceneManager.hpp"
+
+1524221350 ger.hpp"
+
+1525713057 source:e:\codeblocksprojects\snakeica\scene.cpp
+	"Scene.hpp"
+
+1523886702 "
+
+1525777054 e:\codeblocksprojects\snakeica\scene.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	<vector>
+	<list>
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1523103917 anager.hpp"
+
+1525787597 source:e:\codeblocksprojects\snakeica\scenemanager.cpp
+	"SceneManager.hpp"
+	<iostream>
+
+1525776876 e:\codeblocksprojects\snakeica\scenemanager.hpp
+	<unordered_map>
+	<string>
+	<memory>
+	"Scene.hpp"
+
+1525778779 e:\codeblocksprojects\snakeica\gamescene.hpp
+	<string>
+	<memory>
+	"Scene.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Sun.hpp"
+	"Planet.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+	"Highscore.hpp"
+
+1524235637 ng.hpp"
+
+1525783970 source:e:\codeblocksprojects\snakeica\gamescene.cpp
+	"GameScene.hpp"
+	"ResourceManager.hpp"
+	"SceneManager.hpp"
+	"SnakePlayer.hpp"
+	"SnakeAI.hpp"
+	"Earth.hpp"
+	"Jupiter.hpp"
+	"Fruit.hpp"
+	"GoldenFruit.hpp"
+	<iostream>
+	<sstream>
+	"GameoverScene.hpp"
+
+1525772616 source:e:\codeblocksprojects\snakeica\entity.cpp
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525772634 e:\codeblocksprojects\snakeica\entity.hpp
+	<string>
+	"ResourceManager.hpp"
+	"Vector2.hpp"
+	<SFML/Graphics.hpp>
+
+1525629274 source:e:\codeblocksprojects\snakeica\vector2.cpp
+	"Vector2.hpp"
+	<iostream>
+	<cmath>
+
+1525778330 e:\codeblocksprojects\snakeica\vector2.hpp
+	<iostream>
+	<cmath>
+
+1525776491 e:\codeblocksprojects\snakeica\resourcemanager.hpp
+	<unordered_map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1525712253 source:e:\codeblocksprojects\snakeica\resourcemanager.cpp
+	"ResourceManager.hpp"
+	<iostream>
+
+1525782623 source:e:\codeblocksprojects\snakeica\snake.cpp
+	"Snake.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	"Fruit.hpp"
+	<iostream>
+
+1525782436 e:\codeblocksprojects\snakeica\snake.hpp
+	"Entity.hpp"
+	"SnakeSegment.hpp"
+	<list>
+
+1523901722 ent.hpp"
+
+1525626806 source:e:\codeblocksprojects\snakeica\snakesegment.cpp
+	"SnakeSegment.hpp"
+	<iostream>
+	"Snake.hpp"
+
+1525778018 e:\codeblocksprojects\snakeica\snakesegment.hpp
+	"Entity.hpp"
+	"Vector2.hpp"
+
+1524170864 pp"
+
+1525700770 source:e:\codeblocksprojects\snakeica\collectible.cpp
+	"Collectible.hpp"
+	<stdlib.h>
+	"Vector2.hpp"
+
+1525772647 e:\codeblocksprojects\snakeica\collectible.hpp
+	<string>
+	"Snake.hpp"
+
+1525700872 source:e:\codeblocksprojects\snakeica\fruit.cpp
+	"Fruit.hpp"
+	<iostream>
+
+1525776054 e:\codeblocksprojects\snakeica\fruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1523107506 source:c:\users\tieran\documents\snakeica\collectible.cpp
+	"Collectible.hpp"
+	<stdlib.h>
+
+1523107483 c:\users\tieran\documents\snakeica\collectible.hpp
+	<string>
+	"Snake.hpp"
+
+1523199132 c:\users\tieran\documents\snakeica\snake.hpp
+	"Entity.hpp"
+	"SnakeSegment.hpp"
+	<list>
+
+1523102185 c:\users\tieran\documents\snakeica\entity.hpp
+	<string>
+	"ResourceManager.hpp"
+	"Vector2.hpp"
+	<SFML/Graphics.hpp>
+
+1521810282 c:\users\tieran\documents\snakeica\resourcemanager.hpp
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1521810293 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1521810293 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1521810293 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1521810293 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\utf.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\string.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\thread.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\threadlocalptr.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\vector2.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\system\vector3.inl
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521810295 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\contextsettings.hpp
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1521810296 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\window\windowstyle.hpp
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\rect.inl
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\primitivetype.hpp
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\glsl.inl
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1521810294 c:\users\tieran\documents\snakeica\windows\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1521810282 c:\users\tieran\documents\snakeica\vector2.hpp
+	<iostream>
+
+1523105787 c:\users\tieran\documents\snakeica\snakesegment.hpp
+	"Entity.hpp"
+	"Vector2.hpp"
+
+1523102981 source:c:\users\tieran\documents\snakeica\entity.cpp
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1523107770 source:c:\users\tieran\documents\snakeica\fruit.cpp
+	"Fruit.hpp"
+	<iostream>
+
+1523107517 c:\users\tieran\documents\snakeica\fruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1521810282 source:c:\users\tieran\documents\snakeica\game.cpp
+	"Game.hpp"
+	"GameScene.hpp"
+	<iostream>
+	<stdlib.h>
+
+1522867859 c:\users\tieran\documents\snakeica\game.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	"SceneManager.hpp"
+
+1521810282 c:\users\tieran\documents\snakeica\scenemanager.hpp
+	<map>
+	<string>
+	"Scene.hpp"
+
+1523104321 c:\users\tieran\documents\snakeica\scene.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	<list>
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1523105301 c:\users\tieran\documents\snakeica\gamescene.hpp
+	<string>
+	<list>
+	"Scene.hpp"
+	"Snake.hpp"
+	"Fruit.hpp"
+	"Sun.hpp"
+	"Planet.hpp"
+
+1524175991 p"
+
+1523123203 source:c:\users\tieran\documents\snakeica\gamescene.cpp
+	"GameScene.hpp"
+	"ResourceManager.hpp"
+	"SceneManager.hpp"
+	<iostream>
+	<sstream>
+
+1521810282 source:c:\users\tieran\documents\snakeica\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+
+1521810282 source:c:\users\tieran\documents\snakeica\resourcemanager.cpp
+	"ResourceManager.hpp"
+	<iostream>
+
+1523104607 source:c:\users\tieran\documents\snakeica\scene.cpp
+	"Scene.hpp"
+
+1522868214 source:c:\users\tieran\documents\snakeica\scenemanager.cpp
+	"SceneManager.hpp"
+	<iostream>
+
+1523199159 source:c:\users\tieran\documents\snakeica\snake.cpp
+	"Snake.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	"Fruit.hpp"
+
+1523105558 source:c:\users\tieran\documents\snakeica\snakesegment.cpp
+	"SnakeSegment.hpp"
+	<iostream>
+	"Snake.hpp"
+
+1521810282 source:c:\users\tieran\documents\snakeica\vector2.cpp
+	"Vector2.hpp"
+	<iostream>
+	<cmath>
+
+1523103723 c:\users\tieran\documents\snakeica\sun.hpp
+	"Entity.hpp"
+
+1523103526 source:c:\users\tieran\documents\snakeica\sun.cpp
+	"Sun.hpp"
+	"Snake.hpp"
+
+1523123082 c:\users\tieran\documents\snakeica\planet.hpp
+	"Entity.hpp"
+
+1523123091 source:c:\users\tieran\documents\snakeica\planet.cpp
+	"Planet.hpp"
+	"SceneManager.hpp"
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+
+1525778027 e:\codeblocksprojects\snakeica\sun.hpp
+	"Entity.hpp"
+	"Planet.hpp"
+
+1525776166 e:\codeblocksprojects\snakeica\planet.hpp
+	"Entity.hpp"
+
+1525711536 source:e:\codeblocksprojects\snakeica\planet.cpp
+	"Planet.hpp"
+	"SceneManager.hpp"
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+
+1525724396 source:e:\codeblocksprojects\snakeica\sun.cpp
+	"Sun.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+
+1524131754 le.hpp"
+
+1525699185 source:e:\codeblocksprojects\snakeica\earth.cpp
+	"Earth.hpp"
+	"Snake.hpp"
+
+1525772093 e:\codeblocksprojects\snakeica\earth.hpp
+	"Planet.hpp"
+
+1525703739 source:e:\codeblocksprojects\snakeica\jupiter.cpp
+	"Jupiter.hpp"
+	"Snake.hpp"
+
+1525774162 e:\codeblocksprojects\snakeica\jupiter.hpp
+	"Planet.hpp"
+
+1525782764 source:e:\codeblocksprojects\snakeica\snakeai.cpp
+	"SnakeAI.hpp"
+	"SceneManager.hpp"
+
+1525782814 e:\codeblocksprojects\snakeica\snakeai.hpp
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+
+1524133962 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Game.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	"SceneManager.hpp"
+	<string>
+	<SFML/Graphics.hpp>
+	"SceneManager.hpp"
+
+1525338655 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SceneManager.hpp
+	<map>
+	<string>
+	"Scene.hpp"
+	<map>
+	<string>
+	"Scene.hpp"
+
+1524133855 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Scene.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	<vector>
+	<list>
+	"Entity.hpp"
+	"ResourceManager.hpp"
+	<string>
+	<SFML/Graphics.hpp>
+	<vector>
+	<list>
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1524133856 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Entity.hpp
+	<string>
+	"ResourceManager.hpp"
+	"Vector2.hpp"
+	<SFML/Graphics.hpp>
+	<string>
+	"ResourceManager.hpp"
+	"Vector2.hpp"
+	<SFML/Graphics.hpp>
+
+1524133855 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/ResourceManager.hpp
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1524233113 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Vector2.hpp
+	<iostream>
+	<iostream>
+
+1524230891 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Collectible.cpp
+	"Collectible.hpp"
+	<stdlib.h>
+	"Collectible.hpp"
+	<stdlib.h>
+
+1524133857 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Collectible.hpp
+	<string>
+	"Snake.hpp"
+	<string>
+	"Snake.hpp"
+
+1524133855 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Snake.hpp
+	"Entity.hpp"
+	"SnakeSegment.hpp"
+	<list>
+	"Entity.hpp"
+	"SnakeSegment.hpp"
+	<list>
+
+1524133854 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SnakeSegment.hpp
+	"Entity.hpp"
+	"Vector2.hpp"
+	"Entity.hpp"
+	"Vector2.hpp"
+
+1524133857 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Earth.cpp
+	"Earth.hpp"
+	"Snake.hpp"
+	"Earth.hpp"
+	"Snake.hpp"
+
+1524133857 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Earth.hpp
+	"Planet.hpp"
+	"Planet.hpp"
+
+1524133856 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Planet.hpp
+	"Entity.hpp"
+	"Entity.hpp"
+
+1524133857 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Entity.cpp
+	"Entity.hpp"
+	"ResourceManager.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Fruit.cpp
+	"Fruit.hpp"
+	<iostream>
+	"Fruit.hpp"
+	<iostream>
+
+1524133856 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Fruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Game.cpp
+	"Game.hpp"
+	"GameScene.hpp"
+	<iostream>
+	<stdlib.h>
+	"Game.hpp"
+	"GameScene.hpp"
+	<iostream>
+	<stdlib.h>
+
+1525338228 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/GameScene.hpp
+	<string>
+	<list>
+	"Scene.hpp"
+	"Snake.hpp"
+	"SnakeAI.hpp"
+	"Collectible.hpp"
+	"Sun.hpp"
+	"Planet.hpp"
+	"Grid.hpp"
+	<string>
+	<list>
+	"Scene.hpp"
+	"Snake.hpp"
+	"SnakeAI.hpp"
+	"Collectible.hpp"
+	"Sun.hpp"
+	"Planet.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+	"Highscore.hpp"
+
+1524232037 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SnakeAI.hpp
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+
+1524133854 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Sun.hpp
+	"Entity.hpp"
+	"Planet.hpp"
+	"Entity.hpp"
+	"Planet.hpp"
+
+1525339033 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/GameScene.cpp
+	"GameScene.hpp"
+	"ResourceManager.hpp"
+	"SceneManager.hpp"
+	"Earth.hpp"
+	"Jupiter.hpp"
+	"Fruit.hpp"
+	<iostream>
+	<sstream>
+	"GameScene.hpp"
+	"ResourceManager.hpp"
+	"SceneManager.hpp"
+	"Earth.hpp"
+	"Jupiter.hpp"
+	"Fruit.hpp"
+	<iostream>
+	<sstream>
+	"GameoverScene.hpp"
+
+1524133856 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Jupiter.hpp
+	"Planet.hpp"
+	"Planet.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Jupiter.cpp
+	"Jupiter.hpp"
+	"Snake.hpp"
+	"Jupiter.hpp"
+	"Snake.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Planet.cpp
+	"Planet.hpp"
+	"SceneManager.hpp"
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+	"Planet.hpp"
+	"SceneManager.hpp"
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+
+1524133856 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/ResourceManager.cpp
+	"ResourceManager.hpp"
+	<iostream>
+	"ResourceManager.hpp"
+	<iostream>
+
+1524229639 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Scene.cpp
+	"Scene.hpp"
+	"Scene.hpp"
+
+1525339657 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SceneManager.cpp
+	"SceneManager.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	<iostream>
+
+1524133855 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Snake.cpp
+	"Snake.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	"Fruit.hpp"
+	"Snake.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	"Fruit.hpp"
+
+1524234840 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SnakeAI.cpp
+	"SnakeAI.hpp"
+	"SceneManager.hpp"
+	"SnakeAI.hpp"
+	"SceneManager.hpp"
+
+1524133854 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/SnakeSegment.cpp
+	"SnakeSegment.hpp"
+	<iostream>
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+	<iostream>
+	"Snake.hpp"
+
+1524133854 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Sun.cpp
+	"Sun.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Sun.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+
+1524233146 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Vector2.cpp
+	"Vector2.hpp"
+	<iostream>
+	<cmath>
+	"Vector2.hpp"
+	<iostream>
+	<cmath>
+
+1524217750 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Grid.cpp
+	"Grid.hpp"
+	"SceneManager.hpp"
+	"Grid.hpp"
+	"SceneManager.hpp"
+
+1524172391 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Grid.hpp
+	"Node.hpp"
+	"SFML/Graphics.hpp"
+	<vector>
+	"Entity.hpp"
+	"Node.hpp"
+	<list>
+	<vector>
+	"Entity.hpp"
+
+1524167264 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Node.hpp
+	"Vector2.hpp"
+	"Vector2.hpp"
+
+1524166329 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Node.cpp
+	"Node.hpp"
+	"Node.hpp"
+
+1524133866 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1524133866 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1524133866 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1524133866 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Config.hpp
+	"TargetConditionals.h"
+	"TargetConditionals.h"
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Time.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/FileInputStream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/InputStream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/NonCopyable.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Export.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/MemoryInputStream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/String.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Utf.inl
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/String.inl
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Thread.inl
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/ThreadLocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/ThreadLocalPtr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/ThreadLocalPtr.inl
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Vector2.hpp
+	<SFML/System/Vector2.inl>
+	<SFML/System/Vector2.inl>
+
+1524133872 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Vector2.inl
+
+1524133871 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Vector3.hpp
+	<SFML/System/Vector3.inl>
+	<SFML/System/Vector3.inl>
+
+1524133871 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/System/Vector3.inl
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/GlResource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/ContextSettings.hpp
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Keyboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/Export.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/VideoMode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/Window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1524133874 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/WindowHandle.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1524133873 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Window/WindowStyle.hpp
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/BlendMode.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Export.hpp
+	<SFML/Config.hpp>
+	<SFML/Config.hpp>
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/CircleShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/RenderStates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Rect.inl
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/VertexArray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Color.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Export.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/PrimitiveType.hpp
+
+1524133870 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/ConvexShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/RectangleShape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/RenderTarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/View.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/RenderTexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/RenderWindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1524133869 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Glsl.inl
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1524133868 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Windows/SFML/include/SFML/Graphics/Text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525773993 e:\codeblocksprojects\snakeica\grid.hpp
+	"Node.hpp"
+	<list>
+	<vector>
+	"Entity.hpp"
+
+1525775377 e:\codeblocksprojects\snakeica\node.hpp
+	"Vector2.hpp"
+
+1525626565 source:e:\codeblocksprojects\snakeica\node.cpp
+	"Node.hpp"
+
+1525773966 source:e:\codeblocksprojects\snakeica\grid.cpp
+	"Grid.hpp"
+	"SceneManager.hpp"
+
+1525705291 source:e:\codeblocksprojects\snakeica\pathfinding.cpp
+	"Pathfinding.hpp"
+	"Node.hpp"
+	<iostream>
+
+1525776037 e:\codeblocksprojects\snakeica\pathfinding.hpp
+	"Grid.hpp"
+	<list>
+	<unordered_set>
+
+1524235448 _set>
+
+1524231848 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Pathfinding.hpp
+	"Grid.hpp"
+	<list>
+	<unordered_set>
+
+1524234405 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Pathfinding.cpp
+	"Pathfinding.hpp"
+	"Node.hpp"
+	<iostream>
+
+1525338048 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Highscore.cpp
+	"Highscore.hpp"
+	<fstream>
+	<iostream>
+
+1525336727 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/Highscore.hpp
+	<string>
+	<unordered_map>
+
+1525339937 source:/nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/GameoverScene.cpp
+	"GameoverScene.hpp"
+	"SceneManager.hpp"
+	<sstream>
+
+1525338798 /nethome1/scm-studs/t7042361/c++ for games/snake/SnakeICA/GameoverScene.hpp
+	"Scene.hpp"
+	<string>
+	<unordered_map>
+
+1525774135 e:\codeblocksprojects\snakeica\highscore.hpp
+	<string>
+	<unordered_map>
+	<vector>
+
+1525772915 e:\codeblocksprojects\snakeica\gameoverscene.hpp
+	"Scene.hpp"
+	<string>
+	<unordered_map>
+	"Highscore.hpp"
+	"Snake.hpp"
+
+1525703694 source:e:\codeblocksprojects\snakeica\highscore.cpp
+	"Highscore.hpp"
+	<fstream>
+	<iostream>
+	<algorithm>
+
+1525701793 source:e:\codeblocksprojects\snakeica\gameoverscene.cpp
+	"GameoverScene.hpp"
+	"SceneManager.hpp"
+	<sstream>
+
+1525792481 source:e:\codeblocksprojects\snakeica\mainmenuscene.cpp
+	"MainMenuScene.hpp"
+	"SceneManager.hpp"
+	<sstream>
+
+1525774169 e:\codeblocksprojects\snakeica\mainmenuscene.hpp
+	"Scene.hpp"
+
+1525702328 source:e:\codeblocksprojects\snakeica\goldenfruit.cpp
+	"GoldenFruit.hpp"
+
+1525773292 e:\codeblocksprojects\snakeica\goldenfruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525782687 source:e:\codeblocksprojects\snakeica\snakeplayer.cpp
+	"SnakePlayer.hpp"
+	<SFML/Graphics.hpp>
+
+1525782682 e:\codeblocksprojects\snakeica\snakeplayer.hpp
+	"Snake.hpp"
+
+1525700770 source:e:\codeblocksprojects\project\collectible.cpp
+	"Collectible.hpp"
+	<stdlib.h>
+	"Vector2.hpp"
+
+1525772647 e:\codeblocksprojects\project\collectible.hpp
+	<string>
+	"Snake.hpp"
+
+1525782436 e:\codeblocksprojects\project\snake.hpp
+	"Entity.hpp"
+	"SnakeSegment.hpp"
+	<list>
+
+1525772634 e:\codeblocksprojects\project\entity.hpp
+	<string>
+	"ResourceManager.hpp"
+	"Vector2.hpp"
+	<SFML/Graphics.hpp>
+
+1525776491 e:\codeblocksprojects\project\resourcemanager.hpp
+	<unordered_map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1525448709 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525448709 e:\codeblocksprojects\project\windows\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525448709 e:\codeblocksprojects\project\windows\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525448709 e:\codeblocksprojects\project\windows\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525448714 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\utf.inl
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\string.inl
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\thread.inl
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525448715 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\threadlocalptr.inl
+
+1525448714 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525448714 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\vector2.inl
+
+1525448714 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525448714 e:\codeblocksprojects\project\windows\sfml\include\sfml\system\vector3.inl
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\contextsettings.hpp
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525448717 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525448716 e:\codeblocksprojects\project\windows\sfml\include\sfml\window\windowstyle.hpp
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\rect.inl
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525448713 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525448712 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\glsl.inl
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525448711 e:\codeblocksprojects\project\windows\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525778330 e:\codeblocksprojects\project\vector2.hpp
+	<iostream>
+	<cmath>
+
+1525778018 e:\codeblocksprojects\project\snakesegment.hpp
+	"Entity.hpp"
+	"Vector2.hpp"
+
+1525699185 source:e:\codeblocksprojects\project\earth.cpp
+	"Earth.hpp"
+	"Snake.hpp"
+
+1525772093 e:\codeblocksprojects\project\earth.hpp
+	"Planet.hpp"
+
+1525776166 e:\codeblocksprojects\project\planet.hpp
+	"Entity.hpp"
+
+1525772616 source:e:\codeblocksprojects\project\entity.cpp
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525700872 source:e:\codeblocksprojects\project\fruit.cpp
+	"Fruit.hpp"
+	<iostream>
+
+1525776054 e:\codeblocksprojects\project\fruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525701050 source:e:\codeblocksprojects\project\game.cpp
+	"Game.hpp"
+	"GameScene.hpp"
+	"MainMenuScene.hpp"
+	<iostream>
+	<stdlib.h>
+
+1525772876 e:\codeblocksprojects\project\game.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	"SceneManager.hpp"
+
+1525776876 e:\codeblocksprojects\project\scenemanager.hpp
+	<unordered_map>
+	<string>
+	<memory>
+	"Scene.hpp"
+
+1525777054 e:\codeblocksprojects\project\scene.hpp
+	<string>
+	<SFML/Graphics.hpp>
+	<vector>
+	<list>
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525778779 e:\codeblocksprojects\project\gamescene.hpp
+	<string>
+	<memory>
+	"Scene.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Sun.hpp"
+	"Planet.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+	"Highscore.hpp"
+
+1525778027 e:\codeblocksprojects\project\sun.hpp
+	"Entity.hpp"
+	"Planet.hpp"
+
+1525773993 e:\codeblocksprojects\project\grid.hpp
+	"Node.hpp"
+	<list>
+	<vector>
+	"Entity.hpp"
+
+1525775377 e:\codeblocksprojects\project\node.hpp
+	"Vector2.hpp"
+
+1525776037 e:\codeblocksprojects\project\pathfinding.hpp
+	"Grid.hpp"
+	<list>
+	<unordered_set>
+
+1525774135 e:\codeblocksprojects\project\highscore.hpp
+	<string>
+	<unordered_map>
+	<vector>
+
+1525774169 e:\codeblocksprojects\project\mainmenuscene.hpp
+	"Scene.hpp"
+
+1525701793 source:e:\codeblocksprojects\project\gameoverscene.cpp
+	"GameoverScene.hpp"
+	"SceneManager.hpp"
+	<sstream>
+
+1525772915 e:\codeblocksprojects\project\gameoverscene.hpp
+	"Scene.hpp"
+	<string>
+	<unordered_map>
+	"Highscore.hpp"
+	"Snake.hpp"
+
+1525783970 source:e:\codeblocksprojects\project\gamescene.cpp
+	"GameScene.hpp"
+	"ResourceManager.hpp"
+	"SceneManager.hpp"
+	"SnakePlayer.hpp"
+	"SnakeAI.hpp"
+	"Earth.hpp"
+	"Jupiter.hpp"
+	"Fruit.hpp"
+	"GoldenFruit.hpp"
+	<iostream>
+	<sstream>
+	"GameoverScene.hpp"
+
+1525782682 e:\codeblocksprojects\project\snakeplayer.hpp
+	"Snake.hpp"
+
+1525782814 e:\codeblocksprojects\project\snakeai.hpp
+	"Snake.hpp"
+	"Collectible.hpp"
+	"Grid.hpp"
+	"Pathfinding.hpp"
+
+1525774162 e:\codeblocksprojects\project\jupiter.hpp
+	"Planet.hpp"
+
+1525773292 e:\codeblocksprojects\project\goldenfruit.hpp
+	"Collectible.hpp"
+	"Entity.hpp"
+	"ResourceManager.hpp"
+
+1525702328 source:e:\codeblocksprojects\project\goldenfruit.cpp
+	"GoldenFruit.hpp"
+
+1525773966 source:e:\codeblocksprojects\project\grid.cpp
+	"Grid.hpp"
+	"SceneManager.hpp"
+
+1525703694 source:e:\codeblocksprojects\project\highscore.cpp
+	"Highscore.hpp"
+	<fstream>
+	<iostream>
+	<algorithm>
+
+1525703739 source:e:\codeblocksprojects\project\jupiter.cpp
+	"Jupiter.hpp"
+	"Snake.hpp"
+
+1525703784 source:e:\codeblocksprojects\project\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Game.hpp"
+
+1525792481 source:e:\codeblocksprojects\project\mainmenuscene.cpp
+	"MainMenuScene.hpp"
+	"SceneManager.hpp"
+	<sstream>
+
+1525705291 source:e:\codeblocksprojects\project\pathfinding.cpp
+	"Pathfinding.hpp"
+	"Node.hpp"
+	<iostream>
+
+1525711536 source:e:\codeblocksprojects\project\planet.cpp
+	"Planet.hpp"
+	"SceneManager.hpp"
+	"Snake.hpp"
+	"SnakeSegment.hpp"
+
+1525712253 source:e:\codeblocksprojects\project\resourcemanager.cpp
+	"ResourceManager.hpp"
+	<iostream>
+
+1525713057 source:e:\codeblocksprojects\project\scene.cpp
+	"Scene.hpp"
+
+1525787597 source:e:\codeblocksprojects\project\scenemanager.cpp
+	"SceneManager.hpp"
+	<iostream>
+
+1525782623 source:e:\codeblocksprojects\project\snake.cpp
+	"Snake.hpp"
+	<iostream>
+	"SceneManager.hpp"
+	"Fruit.hpp"
+	<iostream>
+
+1525782764 source:e:\codeblocksprojects\project\snakeai.cpp
+	"SnakeAI.hpp"
+	"SceneManager.hpp"
+
+1525782687 source:e:\codeblocksprojects\project\snakeplayer.cpp
+	"SnakePlayer.hpp"
+	<SFML/Graphics.hpp>
+
+1525626806 source:e:\codeblocksprojects\project\snakesegment.cpp
+	"SnakeSegment.hpp"
+	<iostream>
+	"Snake.hpp"
+
+1525724396 source:e:\codeblocksprojects\project\sun.cpp
+	"Sun.hpp"
+	"Snake.hpp"
+	"Collectible.hpp"
+
